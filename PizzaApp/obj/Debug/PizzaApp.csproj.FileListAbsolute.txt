@@ -1,0 +1,17 @@
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csprojAssemblyReference.cache
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaWindow.g.cs
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\App.g.cs
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp_MarkupCompile.cache
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp_MarkupCompile.lref
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe.config
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\bin\Debug\PizzaApp.pdb
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaDataView.g.cs
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaWindow.baml
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaDataView.baml
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp.g.resources
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp.Properties.Resources.resources
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.GenerateResource.cache
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp.exe
+C:\Users\dibbs\Documents\Visual Studio 2017\Projects\PizzaApp\PizzaApp\obj\Debug\PizzaApp.pdb
